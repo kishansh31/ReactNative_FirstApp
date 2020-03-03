@@ -77,6 +77,7 @@ class Inputs extends Component {
 export default Inputs
 
 const styles = StyleSheet.create({
+  // sample changes for init branch
   container: {
     paddingTop: 23
   },
